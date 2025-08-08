@@ -3,6 +3,8 @@ The C++ backend of the Alki local AI chat software
 
 本地语音对话聊天软件aiki的C++后端源码
 
+其对应前端源码在：[ZhouSiChuan08/alki: The Electron front-end source code of the local voice chat software alki based on ollama](https://github.com/ZhouSiChuan08/alki)
+
 采用的现有技术框架或开源软件有
 
 - 前后端通信：[The ZeroMQ project](https://github.com/zeromq)
