@@ -9,7 +9,7 @@ The C++ backend of the Alki local AI chat software
 
 - 访问本地大模型：[ollama](https://github.com/ollama/ollama)
 
-- 文字转语音(TTS):  [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)   [CosyVoiceCpp](https://github.com/ZhouSiChuan08/CosyVoiceCpp)
+- 文字转语音(TTS):  [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)          [CosyVoiceCpp](https://github.com/ZhouSiChuan08/CosyVoiceCpp)
 
 - 语音转文字(ASR)：[FunAudioLLM/SenseVoice: Multilingual Voice Understanding Model](https://github.com/FunAudioLLM/SenseVoice)
 
